@@ -291,6 +291,13 @@ p {
   font-size: 10px;
 }
 
+#terms {
+  text-align: center;
+  margin-top: 10px;
+  text-decoration: underline;
+  font-size: 10px;
+}
+
 .logo-footer {
   text-align: center;
 }
